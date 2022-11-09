@@ -1,6 +1,3 @@
-# clonegarenalol
-demo: https://clonelol.web.app/champion
-
 ## Project setup
 ```
 npm install
